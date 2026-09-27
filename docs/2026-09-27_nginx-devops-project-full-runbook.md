@@ -216,4 +216,4 @@ Final: TcpTestSucceeded True, body cloud HTML, code 200.
 - HTTPS: open 443 SL/NSG/iptables, certbot --nginx, 80→443 redirect, renew.
 
 ## 9. Exact Command Reference (Copy-Paste, Replace Placeholders)
-WSL local, VM cloud (see 3–4), Oracle console SL/NSG, DuckDNS web UI. No automation scripts used — manual Tell-me-what-to-do mode.
+WSL local, VM cloud (see 3–4), Oracle console SL/NSG, DuckDNS web UI.
